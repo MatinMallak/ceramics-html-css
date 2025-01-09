@@ -30,3 +30,13 @@ a.active {
   border-bottom: 1px solid black;
   padding-bottom: 2px;
 }
+
+.card {
+  width: 40%;
+  display: inline-block;
+}
+
+img {
+  width: 100%;
+  height: 500px;
+}
